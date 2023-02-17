@@ -1,5 +1,6 @@
 # BPCC Guide
 
+
 <p style="text-align: center;"><strong>Shift to Modern</strong></p>
 
 
@@ -15,3 +16,10 @@
 ## Contribute
 
 BPCC自己准备了一份 [线路图](https://github.com/orgs/BPCClub/projects/2/views/1) ，大致列出了 有意向 / 准备进行 / 正在进行中 / 已完成 的项目。如果你有好的想法，欢迎提出 issue 或 PR。
+
+
+## WIP Guide
+
+- [ ] VSCode 快速入门
+- [ ] Git-scm 快速入门
+- [ ] Markdown 快速入门
