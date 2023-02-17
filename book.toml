@@ -1,0 +1,6 @@
+[book]
+authors = ["gcnwm"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Shift to Modern"
