@@ -1,6 +1,6 @@
 [book]
-authors = ["gcnwm"]
-language = "en"
+authors = ["BPCC"]
+language = "zh"
 multilingual = false
 src = "src"
 title = "Shift to Modern"
