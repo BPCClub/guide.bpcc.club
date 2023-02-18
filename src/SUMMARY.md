@@ -5,3 +5,4 @@
 
 # Guides
 
+- [VSCode 入门](./Guides/Get-Start-with-VSCode/Get-Start-with-VSCode.md)
