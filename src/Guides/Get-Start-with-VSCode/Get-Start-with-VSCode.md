@@ -6,8 +6,6 @@
 
 访问 [*Visual Studio Code* 官方页面][VSCode]
 
-[VSCode]: https://code.visualstudio.com/
-
 ![VSCode Website](pics/VSCode-web.png)
 
 对，没错。直接点那个蓝色的按钮就能下载安装包。
@@ -16,6 +14,8 @@
 
 > *VSCode* 默认会下载 *User Installer* (单用户安装器)。
 > 如需 *System Installer* 或其他平台请点击 [*other platform*](https://code.visualstudio.com/#alt-downloads)
+
+[VSCode]: https://code.visualstudio.com/
 
 
 ### 安装
