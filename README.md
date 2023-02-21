@@ -20,6 +20,6 @@ BPCC自己准备了一份 [线路图](https://github.com/orgs/BPCClub/projects/2
 
 ## WIP Guide
 
-- [ ] VSCode 快速入门
+- [x] VSCode 快速入门
 - [ ] Git-scm 快速入门
 - [ ] Markdown 快速入门
