@@ -12,14 +12,16 @@
 
 来试试 BPCC Guide？
 
+本指南会提供通俗易懂的指南，旨在让尚未接触过此类工具的新人快速入门。
+
 
 ## Contribute
 
 BPCC自己准备了一份 [线路图](https://github.com/orgs/BPCClub/projects/2/views/1) ，大致列出了 有意向 / 准备进行 / 正在进行中 / 已完成 的项目。如果你有好的想法，欢迎提出 issue 或 PR。
 
 
-## WIP Guide
+## Guides
 
-- [x] VSCode 快速入门
+- [x] [VSCode 快速入门](src/Guides/Get-Start-with-VSCode/Get-Start-with-VSCode.md)
 - [ ] Git-scm 快速入门
 - [ ] Markdown 快速入门
