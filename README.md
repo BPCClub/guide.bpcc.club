@@ -7,16 +7,15 @@
 ## Introduction
 
 还在为你的队友每次打个压缩包并且用 iM 传代码而烦恼吗？
+
 还因为你的队友文档次次写成 doc 而火大吗？
+
 还在担心入门难而望而却步吗？
+
 
 来试试 BPCC Guide？
 
 本指南会提供通俗易懂的指南，旨在让尚未接触过此类工具的新人快速入门。
-<<<<<<< HEAD
-=======
-
->>>>>>> bbecfb4 (Create Guidelines for Using Git)
 
 
 ## Contribution
@@ -26,10 +25,6 @@ BPCC自己准备了一份 [线路图](https://github.com/orgs/BPCClub/projects/2
 
 ## Guides
 
-<<<<<<< HEAD
 - [x] [VSCode 快速入门](https://guide.bpcc.club/Guides/Get-Start-with-VSCode/Get-Start-with-VSCode.html)
-=======
-- [x] [VSCode 快速入门](src/Guides/Get-Start-with-VSCode/Get-Start-with-VSCode.md)
->>>>>>> bbecfb4 (Create Guidelines for Using Git)
 - [ ] Git-scm 快速入门
 - [ ] Markdown 快速入门
