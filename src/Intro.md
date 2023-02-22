@@ -22,6 +22,6 @@ BPCC自己准备了一份 [线路图](https://github.com/orgs/BPCClub/projects/2
 
 ## Guides
 
-- [x] [VSCode 快速入门](https://guide.bpcc.club/Guides/Get-Start-with-VSCode/Get-Start-with-VSCode.html)
+- [x] [VSCode 快速入门](./Guides/Get-Start-with-VSCode/Get-Start-with-VSCode.md)
 - [ ] Git-scm 快速入门
 - [ ] Markdown 快速入门

@@ -1,6 +1,6 @@
 # Summary
 
-- [Introduction](../README.md)
+- [Introduction](./Intro.md)
 - [Contribute guidelines](./Contribute-Guidelines.md)
 
 # Guides
