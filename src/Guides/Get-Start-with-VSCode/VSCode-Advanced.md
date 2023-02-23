@@ -21,7 +21,7 @@
 
 首先来了解一下 *VSCode* 默认界面。
 
-![](./pics/VSCode-UI-WithComment.png)
+![](./pics/VSCodeAd-UIwithComment.png)
 
 这张图片展示了 *VSCode* 的默认界面中不同模块的位置、名称和快捷键。它可以很好的帮助初学者渡过最初的不适应阶段，为后续的纯键盘操作打下基础。
 
