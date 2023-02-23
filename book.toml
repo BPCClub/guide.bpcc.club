@@ -4,3 +4,6 @@ language = "zh"
 multilingual = false
 src = "src"
 title = "Shift to Modern"
+
+[output.html]
+mathjax-support = true

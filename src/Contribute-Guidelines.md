@@ -41,13 +41,13 @@ Headline1 即 `# Sample` 仅用与指南的标题。
 
 ### 代码框
 
-需要执行的指令等使用代码框并加注 *sh* 表示：
+需要执行的指令等使用代码框并加注 `shell` 表示：
 
-\`\`\`sh
+\`\`\`shell
 guide -sample
 \`\`\`
 
-参数等内容使用代码片段 \`sample\`。
+参数、组合键等内容使用代码片段 \`sample\`。
 
 
 ### 文本格式（WIP）
@@ -57,3 +57,37 @@ guide -sample
 删除线
 ……
 -->
+
+## MathJax
+
+*mdBook* 使用 [*MathJax*](https://www.mathjax.org/) 来渲染公式。
+
+由于官方限制不能直接使用 *MathJax* 通常所用的分隔符。详情请参阅[ *mdBook* 官方文档 MathJax Support](https://rust-lang.github.io/mdBook/format/mathjax.html) 。
+
+以下给出在此项目中 *LaTeX* 用法。
+
+
+### 内联公式
+
+使用 `\\(` 与 `\\)` 作为分隔符框出公式。
+
+```
+样例文字 \\( \int x dx = \frac{x^2}{2} + C \\) 样例文字
+```
+
+渲染结果：
+
+样例文字 \\( \int x dx = \frac{x^2}{2} + C \\) 样例文字
+
+
+### 独立公式
+
+使用 `\\[` 与 `\\]` 作为分隔符框出公式。
+
+```
+\\[ \mu = \frac{1}{N} \sum_{i=0} x_i \\]
+```
+
+渲染结果：
+
+\\[ \mu = \frac{1}{N} \sum_{i=0} x_i \\]
