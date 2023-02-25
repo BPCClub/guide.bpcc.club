@@ -28,7 +28,7 @@
 
 ### 命令面板
 
-在 *VSCode* 中，你可以通过命令面板来执行各种操作。你可以通过按 `F1` 或者使用 `Ctrl+Shift+P` / `Cmd+Shift+P` 打开命令面板。
+在 *VSCode* 中，你可以通过命令面板来执行各种操作。你可以通过按 `F1` 或者使用 `Ctrl + Shift + P` / `Cmd + Shift + P` 打开命令面板。
 
 ![](./pics/VSCodeAd-CommandPanel.png)
 
@@ -38,10 +38,51 @@
 
 ## 键盘指令
 
+## 键盘指令
+
 ### 常用快捷键
+*VS Code*中有很多快捷键，这里只介绍一些常用的快捷键。
+
+例如：觉得快捷键太多记不住？可以访问[快捷键参考](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)来查阅基本快捷键
+
+或者是使用`Ctrl + K Ctrl + S`来查看和绑定*VSCode*中所有快捷键。
+
+接下来列举一些使用频率很高的快捷键：
+| 功能 | 快捷键 |
+| --------------- | -------------- |
+| 打开命令面板 | `Ctrl + Shift + P` |
+| 打开设置面板 | `Ctrl + ,` |
+| 打开搜索面板 | `Ctrl + Shift + F` |
+| 打开文件 | `Ctrl + P` |
+| 打开终端 | `Ctrl + ~` |
+| 打开侧边栏 | `Ctrl + B` |
+| 启动调试 | `F5` |
+| 打开Mardown预览 | `Ctrl + Shift + V` |
+| 关闭当前标签页 | `Ctrl + W` |
+| 格式化代码 | `Shift + Alt + F` |
+| 保存文件 | `Ctrl + S` |
 
 
 ### 编辑技巧
+
+#### 光标移动
+<!--
+TODO
+-->
+
+
+#### 文本编辑
+<!--
+TODO
+-->
+
+
+#### 多光标编辑
+通过上方菜单**帮助>编辑器操场**来打开交互式演练场。
+
+![](pics/VSCodeAd-EditorPlayground.png)
+
+如图所示，在这个页面中，你可以通过各种交互示例来练习VSCode的各种高级编辑技巧。
 
 
 ## 插件推荐

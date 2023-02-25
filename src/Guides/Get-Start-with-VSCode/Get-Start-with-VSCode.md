@@ -22,7 +22,7 @@
 
 直接运行下载所得的文件即可。
 
-> [逐步安装指南](./VSCode-Install-Step-by-Step.md)
+> 逐步安装指南请参阅 [此处](./VSCode-Install-Step-by-Step.md)
 
 
 ## VSCode 初始配置
