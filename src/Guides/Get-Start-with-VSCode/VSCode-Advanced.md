@@ -66,9 +66,46 @@
 ### 编辑技巧
 
 #### 光标移动
-<!--
-TODO
--->
+
+常见的移动光标方法是按方向键，但是其效率在有大量文本的情况下会很低。*VSCode*提供了一些高级的光标移动方法，可以大大提高你的工作效率。
+
+首先介绍一下**针对单词的光标移动**
+
+![](./pics/VSCodeAd-keyboard-1.gif)
+
+[图源](http://img.geek-docs.com/vscode/keyboard/keyboard-1.gif)
+
+如图所示
+光标位于单词中间时，使用`Ctrl+←`可以将光标移动到单词首，同理可得，`Ctrl+→`可以将光标移动到单词尾。
+
+这就引申出了另一个技巧。我们都知道，长按方向键，可以让光标一个字符一个字符地在文本中移动。这时候光标的移动粒度是一个字符。
+![](./pics/VSCodeAd-keyboard-2.gif)
+
+[图源](http://img.geek-docs.com/vscode/keyboard/keyboard-2.gif)
+
+如果我们在移动的过程中，按下`Ctrl+方向键`，那么光标的移动粒度就变成了一个单词，这时候，我们就可以在文本中以单词为单位快速移动光标了。
+
+**快速移动至行首/行尾**
+|            |        |
+| ---------- | ------ |
+| 移动至行首 | `Home` |
+| 移动至行尾 | `End`  |
+
+**快速移动至文档首/文档尾**
+|            |             |
+| ---------- | ----------- |
+| 移动至首行 | `Ctrl+Home` |
+| 移动至尾行 | `Ctrl+End`  |
+
+**代码块跳转**
+
+Windows快捷键 `Ctrl+Shift+\`
+
+![](pics/VSCodeAd-keyboard-3.gif)
+
+[图源](http://img.geek-docs.com/vscode/keyboard/keyboard-4.gif)
+
+常用于`for`、`if`、`while`和函数定义等代码块始末的跳转，一般是在花括号 ` { ` 和 ` } `之间跳转。
 
 
 #### 文本编辑
@@ -78,6 +115,7 @@ TODO
 
 
 #### 多光标编辑
+
 通过上方菜单**帮助>编辑器操场**来打开交互式演练场。
 
 ![](pics/VSCodeAd-EditorPlayground.png)
