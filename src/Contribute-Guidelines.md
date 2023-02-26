@@ -51,12 +51,17 @@ guide -sample
 
 
 ### 文本格式（WIP）
-<!--TODO
-粗体
-斜体
-删除线
-……
--->
+
+文本撰写请先参照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
+
+本指南中对格式使用有如下特殊规范：
+
+**TODO**
+- 粗体
+- 斜体
+- 删除线
+…
+
 
 ## MathJax
 
